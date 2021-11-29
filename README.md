@@ -1,7 +1,6 @@
 # MongoDB
 
 <h1 align="center">
-  <br>
   <a href="https://github.com/BK-Devices/MongoDB"><p> MongoDB Office </p></a>
 </h1>
 
